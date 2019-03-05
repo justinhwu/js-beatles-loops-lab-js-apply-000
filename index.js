@@ -11,7 +11,6 @@ function johnLennonFacts(facts){
   let i = 0
   while(i<facts.length){
     facts = (`${facts[i]}!!!`)
-eturn facts
     i++
   }
   return facts
