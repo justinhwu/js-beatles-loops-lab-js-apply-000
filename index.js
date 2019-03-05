@@ -13,6 +13,6 @@ function johnLennonFacts(facts){
     facts = (`${facts[i]}!!!`)
     return facts
     i++
-    
   }
+  return facts
 }
