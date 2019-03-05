@@ -12,5 +12,6 @@ function johnLennonFacts(facts){
   while(i<facts.length){
     facts = (`${facts[i]}!!!`)
     i++
+    
   }
 }
